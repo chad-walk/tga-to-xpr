@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF Version="XPR2">
+
+<Texture Format="D3DFMT_DXT5" Height="2048" Levels="1" Name="strName" Source="strName.tga" Width="1024" />
+
+</RDF>
